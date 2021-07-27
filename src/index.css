@@ -11,3 +11,106 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  /* display: flex; */
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+}
+
+.app-container {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.signout {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.signout-option {
+  cursor: pointer;
+}
+
+h2 {
+  color:beige;
+  text-align: left;
+}
+
+h1{
+  color:beige;
+  text-align: center;
+}
+
+img {
+  border-radius: 50px;
+  max-height: 3rem;
+  left: 0;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.mail {
+  background-color: gray;
+  margin-bottom: .5rem;
+  border-radius: 10px;
+}
+
+.mail-header {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding-top: 5px;
+}
+
+.sender-name {
+  margin-left: 5px;
+  padding-left: 10px;
+  font-size: large;
+  color: aquamarine;
+}
+
+.mail-body {
+  display: flex;
+  justify-content: flex-start;
+  word-wrap: break-word;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.mail-sender-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: gray;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+
+input {
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  background-color: #b4b1b1;
+  color: black;
+  height: 25px;
+}
+
+input:focus {
+  border: none;
+  outline: none;
+  border-radius: 2px;
+}
+
+.send-button {
+  cursor: pointer;
+  color: black;
+  background-color: gray;
+  border: none;
+}
