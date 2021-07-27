@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-mail-app/static/css/main.45ef98db.chunk.css",
+    "main.js": "/simple-mail-app/static/js/main.aac88098.chunk.js",
+    "main.js.map": "/simple-mail-app/static/js/main.aac88098.chunk.js.map",
+    "runtime-main.js": "/simple-mail-app/static/js/runtime-main.6c784d61.js",
+    "runtime-main.js.map": "/simple-mail-app/static/js/runtime-main.6c784d61.js.map",
+    "static/js/2.3c6feb67.chunk.js": "/simple-mail-app/static/js/2.3c6feb67.chunk.js",
+    "static/js/2.3c6feb67.chunk.js.map": "/simple-mail-app/static/js/2.3c6feb67.chunk.js.map",
+    "static/js/3.b04eab62.chunk.js": "/simple-mail-app/static/js/3.b04eab62.chunk.js",
+    "static/js/3.b04eab62.chunk.js.map": "/simple-mail-app/static/js/3.b04eab62.chunk.js.map",
+    "index.html": "/simple-mail-app/index.html",
+    "static/css/main.45ef98db.chunk.css.map": "/simple-mail-app/static/css/main.45ef98db.chunk.css.map",
+    "static/js/2.3c6feb67.chunk.js.LICENSE.txt": "/simple-mail-app/static/js/2.3c6feb67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c784d61.js",
+    "static/js/2.3c6feb67.chunk.js",
+    "static/css/main.45ef98db.chunk.css",
+    "static/js/main.aac88098.chunk.js"
+  ]
+}
