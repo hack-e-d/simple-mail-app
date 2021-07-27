@@ -26,6 +26,7 @@ const SendMail = ({firebase}) =>{
             body: mailBody,
             recevierEmailId: recevierEmailId,
             createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+            senderEmailId: auth.currentUser.email,
         })
 
         setMailBody('');
